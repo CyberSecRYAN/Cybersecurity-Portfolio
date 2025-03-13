@@ -22,15 +22,18 @@ The assessment covers key areas such as network security, access controls, and v
 - Endpoint Security
 - Identity & Access Management
 
-## Findings
-1. **Issue #1:** [Describe security weakness]
-   - **Impact:** [Explain potential risks]
-   - **Recommendation:** [Suggest security controls]
+## Findings  
+### 🔹 Issue #1: Weak Password Policy  
+   - **Impact:** Users can set short, weak passwords, increasing the risk of brute-force attacks.  
+   - **Recommendation:** Implement a **strong password policy** requiring at least **12 characters, uppercase/lowercase letters, numbers, and special symbols**.  
 
-2. **Issue #2:** [Describe security weakness]
-   - **Impact:** [Explain potential risks]
-   - **Recommendation:** [Suggest security controls]
+### 🔹 Issue #2: Unpatched Software Vulnerabilities  
+   - **Impact:** Outdated versions of **Apache and OpenSSL** expose the system to **CVE-2023-1234**, allowing remote code execution.  
+   - **Recommendation:** Apply security patches and enable **automatic updates** for critical infrastructure.  
 
+### 🔹 Issue #3: Lack of Multi-Factor Authentication (MFA)  
+   - **Impact:** If a password is compromised, attackers can access sensitive accounts without additional authentication.  
+   - **Recommendation:** Enforce **MFA for all privileged accounts** and encourage MFA adoption for regular users.  
 ### Conclusion
 Overall, [Company Name / System] has a [good/moderate/poor] security posture. Immediate remediation steps should include:
 
@@ -47,17 +50,26 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 
 
 
-## Security Resources
-🔹 [Python Script for Security Automation](#)  
-🔹 [Network Security Analysis](#)  
-🔹 [Incident Handling Documentation](#)  
+## 🔹 Security Resources (Upcoming)  
+> **Note:** These projects are currently in development and will be added soon.  
+
+🔹 **Python Script for Security Automation** → *(Coming soon! - Expected Q2 2025)*  
+🔹 **Network Security Analysis Report** → *(Coming soon!)*  
+🔹 **Incident Handling Documentation** → *(Coming soon!)*  
+
+📂 **GitHub Repository:** [Cybersecurity Portfolio](https://github.com/CyberSecRYAN)  
 
 ---
 
-### Findings
-1. **Issue #1: [Describe security weakness]**  
-   - **Impact:** [Explain potential risks]  
-   - **Recommendation:** [Suggest security controls]  
+## Findings  
+
+### **Issue #1: [Describe security weakness]**  
+- **Impact:** [Explain potential risks]  
+- **Recommendation:** [Suggest security controls]    
+
+---
+
+ 
 
 2. **Issue #2: [Describe security weakness]**  
    - **Impact:** [Explain potential risks]  
@@ -67,7 +79,8 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 🔹 **Incident Handling Documentation** → [Link to File]  
 ---
 ## 📄 Resume & Contact  
-📄 **Resume:** [Ryan’s Resume](https://urldefense.com/v3/__http://bit.ly/3Dzg88B__;!!HnyL5y5g8FOd9kGaVA!H8rbFrlnAcXlzTMM9szlGp12NUlwNymaJothZoCUy-A8LoRxSDysSlCvoODioWd6RbXKtF5DyiKCYhk_2tWylBO6fw$)  
-🔗 **LinkedIn:** [Ryan Mihalics-Shaw’s LinkedIn](https://urldefense.com/v3/__https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b__;!!HnyL5y5g8FOd9kGaVA!H8rbFrlnAcXlzTMM9szlGp12NUlwNymaJothZoCUy-A8LoRxSDysSlCvoODioWd6RbXKtF5DyiKCYhk_2tWUKGDI3Q$) 
+📄 **Resume:** [Ryan’s Resume](http://bit.ly/3Dzg88B)  
+🔗 **LinkedIn:** [Ryan Mihalics-Shaw’s LinkedIn](https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b)  
+📧 **Email:** [Ryanmshaw.tech@outlook.com](mailto:Ryanmshaw.tech@outlook.com)     
 
 I am continuously working on projects to enhance my skills in cybersecurity. Feel free to explore my work, and let’s connect! 🚀 
