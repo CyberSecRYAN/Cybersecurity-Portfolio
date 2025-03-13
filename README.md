@@ -22,7 +22,7 @@ I am passionate about **protecting organizations from cyber threats** by leverag
 <br>  
 
 ## 🛠️ Projects & Skills  
-🔹 [**Security Audit Report**](#) *(More projects coming soon!)*  
+🔹 [Security Audit Report](#) *(More projects coming soon! Stay tuned!)*    
 
 <br>  
 
