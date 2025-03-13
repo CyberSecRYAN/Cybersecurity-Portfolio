@@ -6,7 +6,7 @@
 I am passionate about **protecting organizations from cyber threats** by leveraging my skills in **risk assessment, incident response, and penetration testing**. My goal is to contribute to a **strong security posture** in an organization by identifying vulnerabilities and implementing proactive defense strategies.  
 
 ## 📌 Projects & Skills  
-🔹 **Security Audit Report** → [# Security Audit Report
+🔹 [Security Audit Report](#security-audit-report)
 
 ## Executive Summary
 This security audit report evaluates the current security posture of [Company Name / System]. 
