@@ -2,21 +2,32 @@
   <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/23f2d1258d55e49f3373018985d195f02a0759f2/Logo.png" width="250">
 </p>
 
-<br> <!-- This adds a small space after the logo -->
+<br>
 
-# 📂 Cybersecurity Portfolio  
+# 📂 Cybersecurity Portfolio
+<br>
 
 👋 Welcome! I’m **Ryan Mihalics-Shaw**, an aspiring **cybersecurity professional** with a focus on **ethical hacking, network security, and cyber defense**. This portfolio showcases my hands-on projects, security research, and technical skills.  
 
 ## 🔹 About Me  
 I am passionate about **protecting organizations from cyber threats** by leveraging my skills in **risk assessment, incident response, and penetration testing**. My goal is to contribute to a **strong security posture** in an organization by identifying vulnerabilities and implementing proactive defense strategies.  
+## 📌 Key Skills  
+- **Penetration Testing**  
+- **Network Security**  
+- **Risk Assessment & Compliance**  
+- **Incident Response & Threat Mitigation**  
+- **Python for Security Automation**  
+  
 
-## 📌 Projects & Skills  
-🔹 [Security Audit Report](#security-audit-report)
+<br>  
 
-## Executive Summary
-This security audit report evaluates the current security posture of [Company Name / System]. 
-The assessment covers key areas such as network security, access controls, and vulnerability management.
+## 🛠️ Projects & Skills  
+🔹 [**Security Audit Report**](#) *(More projects coming soon!)*  
+
+<br>  
+
+## 📄 Executive Summary  
+This security audit report evaluates the current security posture of **[Company Name / System]**.   
 
 ## Scope of Audit
 - Network Infrastructure Security
