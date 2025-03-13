@@ -36,7 +36,7 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 **Prepared by:** Ryan Mihalics-Shaw  
 **Date:** [Insert Date]    
 
-🔹 **Python Script for Security Automation** → [[Link to File] 
+🔹 **Python Script for Security Automation** → [Link to File]
 🔹 **Network Security Analysis** → [Link to File]  
 🔹 **Incident Handling Documentation** → [Link to File]  
 
