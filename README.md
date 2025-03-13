@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/main/Logo.png" width="250">
-</p>
+</div>
 
 # 📂 Cybersecurity Portfolio  
 
@@ -51,19 +51,6 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 🔹 [Python Script for Security Automation](#)  
 🔹 [Network Security Analysis](#)  
 🔹 [Incident Handling Documentation](#)  
-
----
-
-## Executive Summary
-This security audit report evaluates the current security posture of **[Company Name / System]**. The assessment covers key areas such as **network security, access controls, and vulnerability management**.  
-
----
-
-## Scope of Audit
-- **Network Infrastructure Security**  
-- **Application Security**  
-- **Endpoint Security**  
-- **Identity & Access Management**  
 
 ---
 
