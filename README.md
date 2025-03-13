@@ -44,8 +44,8 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 
 
 ## Security Resources
-🔹 [Python Script for Security Automation](#)
-🔹 [Network Security Analysis](#)
+🔹 [Python Script for Security Automation](#)  
+🔹 [Network Security Analysis](#)  
 🔹 [Incident Handling Documentation](#)  
 
 ---
