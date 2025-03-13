@@ -83,4 +83,4 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 🔗 **LinkedIn:** [Ryan Mihalics-Shaw’s LinkedIn](https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b)  
 📧 **Email:** [Ryanmshaw.tech@outlook.com](mailto:Ryanmshaw.tech@outlook.com)     
 
-I am continuously working on projects to enhance my skills in cybersecurity. Feel free to explore my work, and let’s connect! 🚀 
+I am continuously working on projects to enhance my skills in cybersecurity. Feel free to explore my work, and [let’s connect on LinkedIn!](https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b) 🚀🔒  
