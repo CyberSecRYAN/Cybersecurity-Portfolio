@@ -63,17 +63,17 @@ Overall, [Company Name / System] has a [good/moderate/poor] security posture. Im
 
 ## Findings  
 
-### **Issue #1: [Describe security weakness]**  
+### Issue #1: [Describe security weakness]  
 - **Impact:** [Explain potential risks]  
-- **Recommendation:** [Suggest security controls]    
+- **Recommendation:** [Suggest security controls]  
+
+### Issue #2: [Describe security weakness]  
+- **Impact:** [Explain potential risks]  
+- **Recommendation:** [Suggest security controls]      
 
 ---
 
- 
-
-2. **Issue #2: [Describe security weakness]**  
-   - **Impact:** [Explain potential risks]  
-   - **Recommendation:** [Suggest security controls] 
+  
 
 🔹 **Network Security Analysis** → [Link to File]  
 🔹 **Incident Handling Documentation** → [Link to File]  
