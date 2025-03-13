@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/main/Logo.png" width="250">
 </p>
 
-<h1 align="center">📂 Cybersecurity Portfolio</h1>
-<hr>  
+# 📂 Cybersecurity Portfolio  
 
 👋 Welcome! I’m **Ryan Mihalics-Shaw**, an aspiring **cybersecurity professional** with a focus on **ethical hacking, network security, and cyber defense**. This portfolio showcases my hands-on projects, security research, and technical skills.  
 
