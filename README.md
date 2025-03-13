@@ -27,7 +27,7 @@ I am passionate about **protecting organizations from cyber threats** by leverag
 <br>  
 
 ## 📄 Executive Summary  
-This security audit report evaluates the current security posture of **[Company Name / System]**.   
+This security audit report evaluates the current security posture of **SecureTech Solutions (Cybersecurity consulting firm)**.   
 
 ## Scope of Audit
 - Network Infrastructure Security
