@@ -6,8 +6,37 @@
 I am passionate about **protecting organizations from cyber threats** by leveraging my skills in **risk assessment, incident response, and penetration testing**. My goal is to contribute to a **strong security posture** in an organization by identifying vulnerabilities and implementing proactive defense strategies.  
 
 ## 📌 Projects & Skills  
-🔹 **Security Audit Report** → [Link to File]  
-🔹 **Python Script for Security Automation** → [Link to File]  
+🔹 **Security Audit Report** → [# Security Audit Report
+
+## Executive Summary
+This security audit report evaluates the current security posture of [Company Name / System]. 
+The assessment covers key areas such as network security, access controls, and vulnerability management.
+
+## Scope of Audit
+- Network Infrastructure Security
+- Application Security
+- Endpoint Security
+- Identity & Access Management
+
+## Findings
+1. **Issue #1:** [Describe security weakness]
+   - **Impact:** [Explain potential risks]
+   - **Recommendation:** [Suggest security controls]
+
+2. **Issue #2:** [Describe security weakness]
+   - **Impact:** [Explain potential risks]
+   - **Recommendation:** [Suggest security controls]
+
+## Conclusion
+Overall, [Company Name / System] has a [good/moderate/poor] security posture. Immediate remediation steps should include:
+- [Action 1]
+- [Action 2]
+- [Action 3]
+
+**Prepared by:** Ryan Mihalics-Shaw  
+**Date:** [Insert Date]    
+
+🔹 **Python Script for Security Automation** → [[Link to File] 
 🔹 **Network Security Analysis** → [Link to File]  
 🔹 **Incident Handling Documentation** → [Link to File]  
 
