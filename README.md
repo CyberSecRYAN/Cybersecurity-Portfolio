@@ -7,7 +7,7 @@
 # 📂 Cybersecurity Portfolio
 <br>
 
-👋 Welcome! I’m **Ryan Mihalics-Shaw**, an aspiring **cybersecurity professional** with a focus on **ethical hacking, network security, and cyber defense**. This portfolio showcases my hands-on projects, security research, and technical skills.  
+👋 Welcome! I’m **Ryan Mihalics-Shaw**, a **cybersecurity professional** with a focus on **ethical hacking, network security, and cyber defense**. This portfolio showcases my hands-on projects, security research, and technical skills.  
 
 ## 🔹 About Me  
 I am passionate about **protecting organizations from cyber threats** by leveraging my skills in **risk assessment, incident response, and penetration testing**. My goal is to contribute to a **strong security posture** in an organization by identifying vulnerabilities and implementing proactive defense strategies.  
