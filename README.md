@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/main/Logo.png" width="250">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/23f2d1258d55e49f3373018985d195f02a0759f2/Logo.png" width="250">
+</p>
 
 # 📂 Cybersecurity Portfolio  
 
