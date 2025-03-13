@@ -12,7 +12,7 @@ I am passionate about **protecting organizations from cyber threats** by leverag
 🔹 **Incident Handling Documentation** → [Link to File]  
 
 ## 📄 Resume & Contact  
-📜 **Resume:** [Ryan’s Resume on Google Drive](https://drive.google.com/file/d/1xmNHheHFemcz-vTme_Z4sajkP86FsOiM/view?usp=share_link)  
+📜 **Resume:** [Ryan’s Resume on Google Drive][(https://drive.google.com/file/d/1xmNHheHFemcz-vTme_Z4sajkP86FsOiM/view?usp=share_link)](https://urldefense.com/v3/__https://drive.google.com/file/d/1XuwQmvX8FGln1LGamnrr4cbnnWbxWTaj/view?usp=drivesdk__;!!HnyL5y5g8FOd9kGaVA!B1qdICPu8hkAwqhiQ4jivOUaQvURi1uMxU4Y8NMRcjeGVYb5BPBB1kgvXv2pYak3-hXXIjBuEwlhGmcD2vymE2Ti4Q$)  
 🔗 **LinkedIn:** [Ryan Mihalics-Shaw’s LinkedIn][https://www.linkedin.com/in/ryanmihalics-shaw](https://urldefense.com/v3/__https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app__;!!HnyL5y5g8FOd9kGaVA!Ayr3fbAEEUycmeFNjVTIYgRjKinle0DFipWyiLNZ3ER7xW_thWSCe_cs-gv6P2Lxq6u4FVebhJZ-KAyuSm6du4hcTw$) 
 
 I am continuously working on projects to enhance my skills in cybersecurity. Feel free to explore my work, and let’s connect! 🚀 
