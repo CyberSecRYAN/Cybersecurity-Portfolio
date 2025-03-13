@@ -27,16 +27,50 @@ The assessment covers key areas such as network security, access controls, and v
    - **Impact:** [Explain potential risks]
    - **Recommendation:** [Suggest security controls]
 
-## Conclusion
+### Conclusion
 Overall, [Company Name / System] has a [good/moderate/poor] security posture. Immediate remediation steps should include:
-- [Action 1]
-- [Action 2]
-- [Action 3]
 
-**Prepared by:** Ryan Mihalics-Shaw  
-**Date:** [Insert Date]    
+- [Action 1]  
+- [Action 2]  
+- [Action 3]  
 
-🔹 **Python Script for Security Automation** → [Link to File]
+---
+
+### **Prepared by:** Ryan Mihalics-Shaw  
+**Date:** [Insert Date]  
+
+---
+
+
+
+## Security Resources
+🔹 [Python Script for Security Automation](#)
+🔹 [Network Security Analysis](#)
+🔹 [Incident Handling Documentation](#)  
+
+---
+
+## Executive Summary
+This security audit report evaluates the current security posture of **[Company Name / System]**. The assessment covers key areas such as **network security, access controls, and vulnerability management**.  
+
+---
+
+## Scope of Audit
+- **Network Infrastructure Security**  
+- **Application Security**  
+- **Endpoint Security**  
+- **Identity & Access Management**  
+
+---
+
+### Findings
+1. **Issue #1: [Describe security weakness]**  
+   - **Impact:** [Explain potential risks]  
+   - **Recommendation:** [Suggest security controls]  
+
+2. **Issue #2: [Describe security weakness]**  
+   - **Impact:** [Explain potential risks]  
+   - **Recommendation:** [Suggest security controls] 
 
 🔹 **Network Security Analysis** → [Link to File]  
 🔹 **Incident Handling Documentation** → [Link to File]  
