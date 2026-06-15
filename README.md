@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Logo.png" alt="Cybersecurity Portfolio Logo" width="450"/>
-</p>
+![Cybersecurity Portfolio Banner](./cybersecurity-portfolio-banner.png)
 
 # Cybersecurity Portfolio
 
