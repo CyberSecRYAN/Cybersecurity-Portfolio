@@ -1,10 +1,18 @@
-![Cybersecurity Portfolio Banner](./cybersecurity-portfolio-banner.png)
+![Cybersecurity Portfolio Banner](cybersecurity-portfolio-banner.png)
 
 # Cybersecurity Portfolio
 
-Welcome. I’m Ryan Mihalics-Shaw, a cybersecurity student and emerging IT support and security professional building practical skills in SOC analysis, Python log analysis, Linux, networking, threat detection, and technical documentation.
+Welcome. I’m **Ryan Mihalics-Shaw**, a cybersecurity student and IT support/security candidate building hands-on skills in SOC analysis, Python log analysis, Linux, networking, Wireshark, technical documentation, and blue-team fundamentals.
 
-This repository serves as a central portfolio for my cybersecurity projects, labs, writeups, and learning progress as I continue building toward IT support, NOC, SOC Tier 1, and security support roles.
+This repository serves as my central cybersecurity portfolio. It includes projects, labs, writeups, and learning milestones as I continue preparing for roles in IT support, technical support, NOC, SOC Tier 1, and security support.
+
+## Recruiter Snapshot
+
+* Cybersecurity student focused on practical blue-team and IT support skills
+* Per Scholas IT/Security graduate
+* Building toward SOC Analyst, NOC Technician, and security support roles
+* Hands-on practice with Python, Linux, networking, Wireshark, log analysis, and documentation
+* Strong background in customer-facing service, communication, troubleshooting, and fast-paced problem solving
 
 ## Current Focus
 
@@ -18,6 +26,7 @@ I am currently focused on developing job-ready skills in:
 * Log analysis and documentation
 * MITRE ATT&CK fundamentals
 * Blue-team and purple-team security concepts
+* Technical support and troubleshooting workflows
 
 ## Technical Skills
 
@@ -31,20 +40,29 @@ I am currently focused on developing job-ready skills in:
 * Log analysis and alert triage
 * Security documentation
 * Incident response fundamentals
+* Technical support documentation
 
 ## Featured Work
 
 ### Purple Team Cybersecurity Journey
 
-A hands-on learning repository documenting my growth in SOC analysis, threat detection, log analysis, Linux, networking, Python, and purple team fundamentals.
+A hands-on learning repository documenting my growth in SOC analysis, threat detection, log analysis, Linux, networking, Python, and purple-team fundamentals.
 
-Repository: [purple-team-journey](https://github.com/CyberSecRYAN/purple-team-journey)
+**Repository:** [purple-team-journey](https://github.com/CyberSecRYAN/purple-team-journey)
+
+**Skills demonstrated:**
+
+* SOC learning documentation
+* Threat detection fundamentals
+* Python log analysis practice
+* Linux and networking practice
+* Blue-team and purple-team learning structure
 
 ### Practice Security Audit Writeup
 
 A sample security audit exercise focused on identifying common security weaknesses and recommending practical remediation steps.
 
-Key findings included:
+**Key findings included:**
 
 * Weak password policy
 * Lack of multi-factor authentication
@@ -52,7 +70,7 @@ Key findings included:
 * Need for improved identity and access controls
 * Need for clearer security documentation
 
-Skills demonstrated:
+**Skills demonstrated:**
 
 * Risk identification
 * Security control recommendations
@@ -85,6 +103,6 @@ My goal is to combine strong IT support fundamentals with hands-on cybersecurity
 
 ## Connect With Me
 
-* LinkedIn: [linkedin.com/in/cyberotto](https://www.linkedin.com/in/cyberotto)
-* GitHub: [github.com/CyberSecRYAN](https://github.com/CyberSecRYAN)
-* Email: [ryanmshaw@proton.me](mailto:ryanmshaw@proton.me)
+* **LinkedIn:** [linkedin.com/in/cyberotto](https://www.linkedin.com/in/cyberotto)
+* **GitHub:** [github.com/CyberSecRYAN](https://github.com/CyberSecRYAN)
+* **Email:** [ryanmshaw@proton.me](mailto:ryanmshaw@proton.me)
