@@ -44,6 +44,22 @@ I am currently focused on developing job-ready skills in:
 
 ## Featured Work
 
+### Python Log Analyzer
+
+A Python-based cybersecurity project that analyzes sample authentication logs, identifies suspicious login activity, and generates a SOC-style findings summary.
+
+**Repository:** [python-log-analyzer](https://github.com/CyberSecRYAN/python-log-analyzer)
+
+**Skills demonstrated:**
+
+* Python scripting
+* Log analysis
+* Detection logic
+* Regular expressions
+* Security documentation
+* SOC-style findings
+* Technical troubleshooting
+
 ### Purple Team Cybersecurity Journey
 
 A hands-on learning repository documenting my growth in SOC analysis, threat detection, log analysis, Linux, networking, Python, and purple-team fundamentals.
@@ -80,13 +96,13 @@ A sample security audit exercise focused on identifying common security weakness
 
 ## Project Roadmap
 
-| Project                       | Focus Area                                   | Status      |
-| ----------------------------- | -------------------------------------------- | ----------- |
-| Python Log Analyzer           | Python, log analysis, detection logic        | In progress |
-| Wireshark Packet Analysis Lab | Networking, packet inspection, documentation | Planned     |
-| Linux Hardening Notes         | Linux security fundamentals                  | Planned     |
-| Incident Response Notes       | SOC documentation and response process       | Planned     |
-| Active Directory Home Lab     | Windows, identity, access management         | Planned     |
+| Project                       | Focus Area                                   | Status             |
+| ----------------------------- | -------------------------------------------- | ------------------ |
+| Python Log Analyzer           | Python, log analysis, detection logic        | Version 1 complete |
+| Wireshark Packet Analysis Lab | Networking, packet inspection, documentation | Planned            |
+| Linux Hardening Notes         | Linux security fundamentals                  | Planned            |
+| Incident Response Notes       | SOC documentation and response process       | Planned            |
+| Active Directory Home Lab     | Windows, identity, access management         | Planned            |
 
 ## Career Goals
 
