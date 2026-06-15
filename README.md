@@ -1,99 +1,92 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberSecRYAN/Cybersecurity-Portfolio/23f2d1258d55e49f3373018985d195f02a0759f2/Logo.png" width="250">
+  <img src="./Logo.png" alt="Cybersecurity Portfolio Logo" width="450"/>
 </p>
 
-<br>
+# Cybersecurity Portfolio
 
-# 📂 Cybersecurity Portfolio
-<br>
+Welcome. I’m Ryan Mihalics-Shaw, a cybersecurity student and emerging IT support and security professional building practical skills in SOC analysis, Python log analysis, Linux, networking, threat detection, and technical documentation.
 
-👋 Welcome! I’m **Ryan Mihalics-Shaw**, a **cybersecurity professional** with a focus on **ethical hacking, network security, and cyber defense**. This portfolio showcases my hands-on projects, security research, and technical skills.  
+This repository serves as a central portfolio for my cybersecurity projects, labs, writeups, and learning progress as I continue building toward IT support, NOC, SOC Tier 1, and security support roles.
 
-## 🔹 About Me  
-I am passionate about **protecting organizations from cyber threats** by leveraging my skills in **risk assessment, incident response, and penetration testing**. My goal is to contribute to a **strong security posture** in an organization by identifying vulnerabilities and implementing proactive defense strategies.  
-## 📌 Key Skills  
-- **Penetration Testing**  
-- **Network Security**  
-- **Risk Assessment & Compliance**  
-- **Incident Response & Threat Mitigation**  
-- **Python for Security Automation**  
-  
+## Current Focus
 
-<br>  
+I am currently focused on developing job-ready skills in:
 
-## 🛠️ Projects & Skills  
-🔹 [Security Audit Report](#) *(More projects coming soon! Stay tuned!)*    
+* SOC operations and alert triage
+* Python scripting for cybersecurity tasks
+* Linux command line and system fundamentals
+* Networking fundamentals
+* Wireshark packet analysis
+* Log analysis and documentation
+* MITRE ATT&CK fundamentals
+* Blue-team and purple-team security concepts
 
-<br>  
+## Technical Skills
 
-## 📄 Executive Summary  
-This security audit report evaluates the current security posture of **SecureTech Solutions (Cybersecurity consulting firm)**.   
+* Python scripting
+* Linux command line
+* Networking fundamentals, including DNS, DHCP, TCP/IP, and troubleshooting
+* Wireshark packet analysis
+* Active Directory basics
+* Microsoft 365 support
+* Virtual machines and lab environments
+* Log analysis and alert triage
+* Security documentation
+* Incident response fundamentals
 
-## Scope of Audit
-- Network Infrastructure Security
-- Application Security
-- Endpoint Security
-- Identity & Access Management
+## Featured Work
 
-## Findings  
-### 🔹 Issue #1: Weak Password Policy  
-   - **Impact:** Users can set short, weak passwords, increasing the risk of brute-force attacks.  
-   - **Recommendation:** Implement a **strong password policy** requiring at least **12 characters, uppercase/lowercase letters, numbers, and special symbols**.  
+### Purple Team Cybersecurity Journey
 
-### 🔹 Issue #2: Unpatched Software Vulnerabilities  
-   - **Impact:** Outdated versions of **Apache and OpenSSL** expose the system to **CVE-2023-1234**, allowing remote code execution.  
-   - **Recommendation:** Apply security patches and enable **automatic updates** for critical infrastructure.  
+A hands-on learning repository documenting my growth in SOC analysis, threat detection, log analysis, Linux, networking, Python, and purple team fundamentals.
 
-### 🔹 Issue #3: Lack of Multi-Factor Authentication (MFA)  
-   - **Impact:** If a password is compromised, attackers can access sensitive accounts without additional authentication.  
-   - **Recommendation:** Enforce **MFA for all privileged accounts** and encourage MFA adoption for regular users.  
-### Conclusion
-Overall, [Company Name / System] has a [good/moderate/poor] security posture. Immediate remediation steps should include:
+Repository: [purple-team-journey](https://github.com/CyberSecRYAN/purple-team-journey)
 
-- [Action 1]  
-- [Action 2]  
-- [Action 3]  
+### Practice Security Audit Writeup
 
----
+A sample security audit exercise focused on identifying common security weaknesses and recommending practical remediation steps.
 
-### **Prepared by:** Ryan Mihalics-Shaw  
-**Date:** [Insert Date]  
+Key findings included:
 
----
+* Weak password policy
+* Lack of multi-factor authentication
+* Unpatched software vulnerabilities
+* Need for improved identity and access controls
+* Need for clearer security documentation
 
+Skills demonstrated:
 
+* Risk identification
+* Security control recommendations
+* Technical writing
+* Basic audit structure
+* Remediation planning
 
-## 🔹 Security Resources (Upcoming)  
-> **Note:** These projects are currently in development and will be added soon.  
+## Project Roadmap
 
-🔹 **Python Script for Security Automation** → *(Coming soon! - Expected Q2 2025)*  
-🔹 **Network Security Analysis Report** → *(Coming soon!)*  
-🔹 **Incident Handling Documentation** → *(Coming soon!)*  
+| Project                       | Focus Area                                   | Status      |
+| ----------------------------- | -------------------------------------------- | ----------- |
+| Python Log Analyzer           | Python, log analysis, detection logic        | In progress |
+| Wireshark Packet Analysis Lab | Networking, packet inspection, documentation | Planned     |
+| Linux Hardening Notes         | Linux security fundamentals                  | Planned     |
+| Incident Response Notes       | SOC documentation and response process       | Planned     |
+| Active Directory Home Lab     | Windows, identity, access management         | Planned     |
 
-📂 **GitHub Repository:** [Cybersecurity Portfolio](https://github.com/CyberSecRYAN)  
+## Career Goals
 
----
+I am building toward roles such as:
 
-## Findings  
+* IT Support Specialist
+* Help Desk Technician
+* Technical Support Specialist
+* NOC Technician
+* Tier 1 SOC Analyst
+* Security Support Analyst
 
-### Issue #1: [Describe security weakness]  
-- **Impact:** [Explain potential risks]  
-- **Recommendation:** [Suggest security controls]  
+My goal is to combine strong IT support fundamentals with hands-on cybersecurity practice, clear documentation, and a continuous learning mindset.
 
-### Issue #2: [Describe security weakness]  
-- **Impact:** [Explain potential risks]  
-- **Recommendation:** [Suggest security controls]      
+## Connect With Me
 
----
-
-  
-
-🔹 **Network Security Analysis** → [Link to File]  
-🔹 **Incident Handling Documentation** → [Link to File]  
----
-## 📄 Resume & Contact  
-📄 **Resume:** [Ryan’s Resume](http://bit.ly/3Dzg88B)  
-🔗 **LinkedIn:** [Ryan Mihalics-Shaw’s LinkedIn](https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b)  
-📧 **Email:** [Ryanmshaw.tech@outlook.com](mailto:Ryanmshaw.tech@outlook.com)     
-
-I am continuously working on projects to enhance my skills in cybersecurity. Feel free to explore my work, wheather you're interested in exciting cybersecurity collaborations, exploring job opportunities, or discussions about the latest trends, and [let’s connect on LinkedIn!](https://www.linkedin.com/in/ryan-mihalics-shaw-a4606319b) 🚀🔒  
+* LinkedIn: [linkedin.com/in/cyberotto](https://www.linkedin.com/in/cyberotto)
+* GitHub: [github.com/CyberSecRYAN](https://github.com/CyberSecRYAN)
+* Email: [ryanmshaw@proton.me](mailto:ryanmshaw@proton.me)
