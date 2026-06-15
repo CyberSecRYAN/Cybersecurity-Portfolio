@@ -1,4 +1,7 @@
-<img src="./Logo.png" alt="Cybersecurity Portfolio Logo" width="300"/>
+<p align="center">
+  <img src="./Logo.png" alt="Cybersecurity Portfolio Logo" width="450"/>
+</p>
+
 # Cybersecurity Portfolio
 
 Welcome. I’m Ryan Mihalics-Shaw, a cybersecurity student and emerging IT support and security professional building practical skills in SOC analysis, Python log analysis, Linux, networking, threat detection, and technical documentation.
